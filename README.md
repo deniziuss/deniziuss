@@ -92,3 +92,15 @@ The project is designed around practical network troubleshooting rather than onl
 
 [Repository →](YOUR_LOCALDPI_REPOSITORY_LINK)
 
+## 05 / TOOLBOX
+
+| Layer                       | Technologies                             |
+| --------------------------- | ---------------------------------------- |
+| **Languages**               | `Python` · `C#` · `C++`                  |
+| **Application Development** | `.NET` · `WPF`                           |
+| **Systems**                 | `Linux` · `Windows`                      |
+| **Networking**              | `TCP/IP` · `DNS` · `Network Diagnostics` |
+| **Development Tools**       | `Git` · `GitHub` · `VS Code`             |
+| **AI & Automation**         | `LLMs` · `APIs` · `Automation`           |
+
+

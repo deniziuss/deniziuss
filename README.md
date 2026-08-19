@@ -13,20 +13,11 @@
     alt="Deniz Fersiz — Software Development, Cybersecurity and AI"
   >
 </picture>
+<p align="center"> <a href="https://github.com/deniziuss?tab=repositories"> <img src="https://img.shields.io/badge/PROJELER-İncele-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Projeler"> </a>
 
-<p align="center">
-  <a href="https://github.com/deniziuss?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-Explore-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Projects">
-  </a>
+<a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"> <img src="https://img.shields.io/badge/LINKEDIN-Bağlantı-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"> </a>
 
-  <a href="LINKEDIN_LINKINIZ">
-    <img src="[https://img.shields.io/badge/LINKEDIN-Connect-0B1220?style](https://www.linkedin.com/in/deniz-fersiz-ab0b35406/)=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn">
-  </a>
-
-  <a href="mailto:MAIL_ADRESINIZ">
-    <img src="https://img.shields.io/badge/EMAIL-Contact-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email">
-  </a>
-</p>
+<a href="mailto:denizfersiz3@gmail.com"> <img src="https://img.shields.io/badge/E--POSTA-İletişim-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="E-posta"> </a> </p>
 
 <p align="center">
   <b>English</b>

@@ -25,83 +25,96 @@
 <a href="mailto:denizfersiz3@gmail.com"><img src="https://img.shields.io/badge/E--POSTA-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="E-posta"></a>
 </p>
 
-<p align="center">
-  <a href="./README.md">English</a>
-  &nbsp;•&nbsp;
-  <b>Türkçe</b>
-</p>
-
 ## 01 / HAKKIMDA
 
-**Yazılım geliştirme, siber güvenlik, ağ teknolojileri ve yapay zekânın** kesişiminde pratik çözümler ve araçlar geliştirmekle ilgileniyorum.
+ **yazılım geliştirme, siber güvenlik, ağ teknolojileri ve yapay zekâ** ile ilgileniyorum.
 
-Şu anda ağırlıklı olarak **Python, C# ve C++** kullanarak uygulamalar ve araçlar geliştiriyor; aynı zamanda sistemler, ağ teknolojileri, otomasyon ve yapay zekâ destekli yazılımlar konusundaki teknik bilgimi ilerletiyorum.
+Bir şey geliştirirken sadece kodun çalışması pek yeterli gelmiyor. Arkada ne olduğunu, sistemin neden o şekilde davrandığını ve bir problem çıktığında sorunun nereden kaynaklandığını da anlamaya çalışıyorum. Zaten ilgimi sistem ve network tarafına çeken şeylerden biri de bu.
 
-Yalnızca belirli teknolojileri öğrenmekten ziyade; yazılım, işletim sistemleri, ağlar ve akıllı otomasyon gibi farklı katmanların birbiriyle nasıl çalıştığını anlamaya odaklanıyorum.
+Şu anda en çok **Python, C# ve C++** ile çalışıyorum. Bunun yanında Linux, ağ teknolojileri, otomasyon ve yapay zekânın normal yazılım projelerinde gerçekten işe yarayabileceği alanlarla uğraşıyorum.
+
+Hâlâ öğrenme ve deneme aşamasındayım. Aklıma gelen her şeyi proje diye koymak yerine, işe yaradığına inandığım fikirleri zamanla düzgün projelere çevirmeye çalışıyorum.
+
+**İlgilendiğim alanlar —** Yazılım Geliştirme · Siber Güvenlik · Ağ Teknolojileri · Yapay Zekâ & Otomasyon
+
+---
 
 ## 02 / ODAK
 
 ### Yazılım Geliştirme
 
-Temiz mimari, sürdürülebilirlik ve gerçek dünya kullanımına odaklanarak uygulamalar, geliştirici araçları ve sistem odaklı yazılımlar geliştiriyorum.
+Yaptığım işlerin çoğu burada başlıyor. Masaüstü uygulamaları, küçük araçlar ve belirli bir problemi çözmek için geliştirdiğim yazılımlar üzerinde çalışıyorum.
+
+Sırf GitHub'da bir proje daha bulunsun diye bir şey yapmak yerine, gerçekten kullanabileceğim veya bana bir şey öğretecek projeler geliştirmeyi daha mantıklı buluyorum.
 
 `Python` · `C#` · `C++` · `.NET` · `WPF`
 
 ### Siber Güvenlik & Ağ Teknolojileri
 
-Sistemlerin nasıl haberleştiğini, ağların nasıl davrandığını ve yazılımın ağ problemlerini analiz etmek, teşhis etmek ve güvenliği geliştirmek amacıyla nasıl kullanılabileceğini araştırıyorum.
+Sistemlerin birbiriyle nasıl iletişim kurduğu, ağ üzerinde bir problemin neden ortaya çıktığı ve bunun yazılım tarafında ne kadarının görülebildiği ilgimi çekiyor.
 
-`Linux` · `TCP/IP` · `DNS` · `Ağ Analizi` · `Güvenlik`
+Hazır araçları kullanmanın yanında, mümkün olduğunca o aracın arka tarafta ne yaptığını da anlamaya çalışıyorum.
+
+`Linux` · `TCP/IP` · `DNS` · `Ağ Analizi`
 
 ### Yapay Zekâ & Otomasyon
 
-Bilgiyi analiz edebilen, tekrarlayan işleri azaltabilen ve karar süreçlerini destekleyebilen yazılımlar geliştirmek amacıyla yapay zekâ, API'ler ve otomasyon teknolojileriyle çalışıyorum.
+Yapay zekâyı tek başına ayrı bir alan olarak görmekten çok, normal bir yazılımın içine gerçekten fayda sağlayacak şekilde nasıl eklenebileceğiyle ilgileniyorum.
+
+LLM'ler, API'ler ve otomasyon tarafında denemeler yapıyorum. Özellikle tekrar eden işleri azaltan, bilgiyi işleyen veya mevcut bir aracı daha kullanışlı hâle getiren kullanım alanları ilgimi çekiyor.
 
 `Python` · `LLM` · `API` · `Otomasyon`
+
+---
 
 ## 03 / ÖNE ÇIKAN ÇALIŞMA
 
 ### LocalDPI Analyzer
 
-Bağlantı davranışlarını, DNS çözümlemesini ve Deep Packet Inspection ile ilişkili olabilecek ağ problemlerini analiz etmeye odaklanan Windows tabanlı bir teşhis aracı.
+LocalDPI Analyzer aslında basit bir düşünceden çıktı: bağlantıda garip bir problem olduğunda tahmin yürütmek yerine, Windows üzerinden neler olduğunu daha düzgün görebileceğim bir araç yapmak istedim.
 
-Proje yalnızca ham ağ verilerini göstermek yerine, bağlantı sorunlarının daha kolay incelenmesini ve anlaşılmasını sağlayan pratik bir ağ teşhis sistemi oluşturmayı hedefliyor.
+Şu anda DNS, bağlantı kontrolleri ve DPI veya ağ filtrelemesiyle ilişkili olabilecek problemleri tek yerde inceleyebilmek için geliştirdiğim Windows tabanlı bir teşhis aracı.
 
-| Alan     | Kullanılan                                       |
-| -------- | ------------------------------------------------ |
-| Uygulama | C# / .NET                                        |
-| Arayüz   | WPF                                              |
-| Platform | Windows                                          |
-| Ağ       | DNS · TCP/IP · Bağlantı Teşhisi                  |
-| Odak     | Ağ Analizi · DPI Kaynaklı Sorunların İncelenmesi |
-| Durum    | Aktif Geliştirme                                 |
+Proje hâlâ geliştirme aşamasında. Kullandıkça ve farklı senaryolar denedikçe hem teknik tarafında hem de arayüzünde değişiklikler yapıyorum.
 
-**Temel çalışma alanları**
+| Alan      | Detay                               |
+| --------- | ----------------------------------- |
+| Dil       | C#                                  |
+| Framework | .NET                                |
+| Arayüz    | WPF                                 |
+| Platform  | Windows                             |
+| Ağ        | DNS · TCP/IP · Bağlantı Kontrolleri |
+| Durum     | Geliştiriliyor                      |
 
-* Ağ arayüzü ve bağlantı teşhisi
-* DNS davranış analizi
-* Bağlantı testleri ve sorun giderme
-* DPI kaynaklı olabilecek ağ problemlerinin incelenmesi
-* Yapılandırılmış teşhis çıktıları
+Şu anda üzerinde çalıştığım bazı kısımlar:
 
-[Repository →](YOUR_LOCALDPI_REPOSITORY_LINK)
+* Ağ ve bağlantı kontrolleri
+* DNS davranışı ve çözümleme
+* Temel bağlantı teşhisi
+* DPI ile ilişkili problemlerin incelenmesi
+* Teşhis sonuçlarını daha okunabilir hâle getirmek
 
-## 04 / SEÇİLMİŞ PROJELER
+[Repository'yi görüntüle →](YOUR_LOCALDPI_REPOSITORY_LINK)
 
-| Proje                                              | Alan                   | Teknolojiler                | Durum          |
-| -------------------------------------------------- | ---------------------- | --------------------------- | -------------- |
-| [LocalDPI Analyzer](YOUR_LOCALDPI_REPOSITORY_LINK) | Ağ Teşhisi             | C# · .NET · WPF             | Aktif          |
-| Project Two                                        | Yapay Zekâ & Otomasyon | Python · API · LLM          | Geliştiriliyor |
-| Project Three                                      | Güvenlik Araçları      | Python · Linux · Networking | Geliştiriliyor |
-| Project Four                                       | Yazılım Geliştirme     | C++ · Systems               | Planlanıyor    |
+---
 
-## 05 / TOOLBOX
+## 04 / ŞU ANDA
 
-| Alan                       | Teknolojiler                             |
-| -------------------------- | ---------------------------------------- |
-| **Programlama Dilleri**    | `Python` · `C#` · `C++`                  |
-| **Uygulama Geliştirme**    | `.NET` · `WPF`                           |
-| **Sistemler**              | `Linux` · `Windows`                      |
-| **Ağ Teknolojileri**       | `TCP/IP` · `DNS` · `Network Diagnostics` |
-| **Geliştirme Araçları**    | `Git` · `GitHub` · `VS Code`             |
-| **Yapay Zekâ & Otomasyon** | `LLM` · `API` · `Otomasyon`              |
+Şu anda en çok **LocalDPI Analyzer** üzerinde çalışıyorum. Bunun yanında yazılımın sistem ve ağ tarafına daha yakın kısımlarında kendimi geliştirmeye çalışıyorum.
+
+Otomasyon, güvenlik ve yapay zekâ tarafında da daha küçük denemelerim var. Ama bunları sırf profil dolu görünsün diye buraya koymak istemiyorum. Ortaya gerçekten göstermek istediğim bir şey çıktıkça eklemeyi tercih ediyorum.
+
+---
+
+## 05 / KULLANDIKLARIM
+
+Şu anda en çok zaman ayırdığım teknolojiler ve alanlar bunlar.
+
+| Alan                       | Teknolojiler                                   |
+| -------------------------- | ---------------------------------------------- |
+| **Programlama Dilleri**    | `Python` · `C#` · `C++`                        |
+| **Masaüstü Geliştirme**    | `.NET` · `WPF`                                 |
+| **Sistemler**              | `Linux` · `Windows`                            |
+| **Ağ Teknolojileri**       | `TCP/IP` · `DNS`                               |
+| **Araçlar**                | `Git` · `GitHub` · `VS Code`                   |
+| **Üzerinde Çalıştıklarım** | `Siber Güvenlik` · `LLM` · `API` · `Otomasyon` |

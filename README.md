@@ -25,43 +25,50 @@
   <a href="https://github.com/deniziuss/deniziuss/blob/main/README.tr.md">Türkçe</a>
 </p>
 
-01 / ABOUT
 
-I'm a Computer Programming student mainly interested in software development, cybersecurity, networking and AI.
+## 01 / ABOUT
+
+I'm a Computer Programming student mainly interested in **software development, cybersecurity, networking and AI**.
 
 I like building things around problems I actually want to understand or solve. For me, writing the code is only one part of it. I also want to know what is happening underneath, why something behaves the way it does and where it breaks when it doesn't work as expected.
 
-Most of my current work is with Python, C# and C++. I'm also spending time on Linux, networking, automation and finding practical ways to use AI inside regular software projects.
+Most of my current work is with **Python, C# and C++**. I'm also spending time on Linux, networking, automation and finding practical ways to use AI inside regular software projects.
 
 I'm still learning, testing ideas and turning the ones that make sense into actual projects.
 
-Main interests — Software Development · Cybersecurity · Networking · AI & Automation
+**Main interests —** Software Development · Cybersecurity · Networking · AI & Automation
 
-02 / FOCUS
-Software Development
+---
+
+## 02 / FOCUS
+
+### Software Development
 
 This is where most of my projects start. I work on desktop applications, small utilities and tools that solve a specific problem instead of building something just for the sake of having another project.
 
-Python · C# · C++ · .NET · WPF
+`Python` · `C#` · `C++` · `.NET` · `WPF`
 
-Cybersecurity & Networking
+### Cybersecurity & Networking
 
 I'm interested in understanding how systems communicate, how network problems happen and what can actually be observed from the software side.
 
 I spend more time trying to understand the behavior of a system than collecting security tools without knowing what they are doing.
 
-Linux · TCP/IP · DNS · Network Analysis
+`Linux` · `TCP/IP` · `DNS` · `Network Analysis`
 
-AI & Automation
+### AI & Automation
 
 I'm interested in AI mostly as something that can be integrated into normal software rather than as a separate project category.
 
 I experiment with LLMs, APIs and automation where they can save time, process information or make an existing tool more useful.
 
-Python · LLMs · APIs · Automation
+`Python` · `LLMs` · `APIs` · `Automation`
 
-03 / FEATURED WORK
-LocalDPI Analyzer
+---
+
+## 03 / FEATURED WORK
+
+### LocalDPI Analyzer
 
 LocalDPI Analyzer started from a simple idea: when a connection behaves strangely, I wanted to be able to inspect what is happening instead of guessing where the problem is.
 
@@ -69,38 +76,44 @@ It's a Windows-based diagnostic tool I'm developing to bring different network c
 
 The project is still under development, so I'm continuing to change both the technical side and the interface as I test different approaches.
 
-Area	Details
-Language	C#
-Framework	.NET
-Interface	WPF
-Platform	Windows
-Networking	DNS · TCP/IP · Connectivity Checks
-Status	In Development
+| Area       | Details                            |
+| ---------- | ---------------------------------- |
+| Language   | C#                                 |
+| Framework  | .NET                               |
+| Interface  | WPF                                |
+| Platform   | Windows                            |
+| Networking | DNS · TCP/IP · Connectivity Checks |
+| Status     | In Development                     |
 
 Some of the areas I'm currently working on:
 
-Network and connectivity checks
-DNS behavior and resolution
-Basic connection diagnostics
-DPI-related troubleshooting
-Making diagnostic results easier to read and compare
+* Network and connectivity checks
+* DNS behavior and resolution
+* Basic connection diagnostics
+* DPI-related troubleshooting
+* Making diagnostic results easier to read and compare
 
-View repository →
+[View repository →](YOUR_LOCALDPI_REPOSITORY_LINK)
 
-04 / CURRENTLY WORKING ON
+---
 
-Right now I'm mainly focused on improving LocalDPI Analyzer and getting more comfortable with the parts of software development that sit closer to systems and networking.
+## 04 / CURRENTLY WORKING ON
 
-I'm also experimenting with smaller projects around automation, security and AI, but I prefer adding them here once they reach a point where I think they're actually worth showing.
+Right now I'm mainly focused on improving **LocalDPI Analyzer** and getting more comfortable with the parts of software development that sit closer to systems and networking.
 
-05 / TOOLBOX
+I'm also experimenting with smaller projects around **automation, security and AI**, but I prefer adding them here once they reach a point where I think they're actually worth showing.
+
+---
+
+## 05 / TOOLBOX
 
 These are the technologies and areas I currently spend most of my time with.
 
-Area	Technologies
-Languages	Python · C# · C++
-Desktop Development	.NET · WPF
-Systems	Linux · Windows
-Networking	TCP/IP · DNS
-Tools	Git · GitHub · VS Code
-Exploring	Cybersecurity · LLMs · APIs · Automation
+| Area                    | Technologies                                     |
+| ----------------------- | ------------------------------------------------ |
+| **Languages**           | `Python` · `C#` · `C++`                          |
+| **Desktop Development** | `.NET` · `WPF`                                   |
+| **Systems**             | `Linux` · `Windows`                              |
+| **Networking**          | `TCP/IP` · `DNS`                                 |
+| **Tools**               | `Git` · `GitHub` · `VS Code`                     |
+| **Exploring**           | `Cybersecurity` · `LLMs` · `APIs` · `Automation` |

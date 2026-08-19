@@ -65,3 +65,30 @@ Experimenting with artificial intelligence, APIs and automation to build softwar
 
 `Python` · `LLMs` · `APIs` · `Automation`
 
+## 03 / FEATURED WORK
+
+### LocalDPI Analyzer
+
+A Windows-based diagnostic tool focused on analyzing connectivity behavior, DNS resolution and network issues that may be related to Deep Packet Inspection.
+
+The project is designed around practical network troubleshooting rather than only displaying raw information, with the goal of making connectivity problems easier to inspect and understand.
+
+| Area        | Implementation                                 |
+| ----------- | ---------------------------------------------- |
+| Application | C# / .NET                                      |
+| Interface   | WPF                                            |
+| Platform    | Windows                                        |
+| Networking  | DNS · TCP/IP · Connectivity Diagnostics        |
+| Focus       | Network Analysis · DPI-related Troubleshooting |
+| Status      | Active Development                             |
+
+**Key areas**
+
+* Network interface and connectivity diagnostics
+* DNS behavior analysis
+* Connection testing and troubleshooting
+* DPI-related network issue investigation
+* Structured diagnostic output
+
+[Repository →](YOUR_LOCALDPI_REPOSITORY_LINK)
+

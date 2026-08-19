@@ -22,7 +22,7 @@
 <p align="center">
   <b>English</b>
   &nbsp;•&nbsp;
-  <a href="./README.tr.md">Türkçe</a>
+  <a href="https://github.com/deniziuss/deniziuss/blob/main/README.tr.md">Türkçe</a>
 </p>
 
 ## 01 / ABOUT

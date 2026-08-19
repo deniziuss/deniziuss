@@ -39,9 +39,6 @@
 
 Yalnızca belirli teknolojileri öğrenmekten ziyade; yazılım, işletim sistemleri, ağlar ve akıllı otomasyon gibi farklı katmanların birbiriyle nasıl çalıştığını anlamaya odaklanıyorum.
 
-**Odak —** Yazılım Geliştirme · Siber Güvenlik · Ağ Teknolojileri · Yapay Zekâ & Otomasyon
-**Yaklaşım —** Geliştir · Analiz Et · Öğren · İyileştir
-
 ## 02 / ODAK
 
 ### Yazılım Geliştirme

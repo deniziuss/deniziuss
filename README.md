@@ -20,7 +20,7 @@
   </a>
 
   <a href="LINKEDIN_LINKINIZ">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn">
+    <img src="[https://img.shields.io/badge/LINKEDIN-Connect-0B1220?style](https://www.linkedin.com/in/deniz-fersiz-ab0b35406/)=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn">
   </a>
 
   <a href="mailto:MAIL_ADRESINIZ">

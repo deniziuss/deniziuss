@@ -27,3 +27,9 @@
     <img src="https://img.shields.io/badge/EMAIL-Contact-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email">
   </a>
 </p>
+
+<p align="center">
+  <b>English</b>
+  &nbsp;•&nbsp;
+  <a href="./README.tr.md">Türkçe</a>
+</p>

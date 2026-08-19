@@ -28,7 +28,7 @@
 
 ## 01 / ABOUT
 
-I'm a Computer Programming student mainly interested in **software development, cybersecurity, networking and AI**.
+**software development, cybersecurity, networking and AI**.
 
 I like building things around problems I actually want to understand or solve. For me, writing the code is only one part of it. I also want to know what is happening underneath, why something behaves the way it does and where it breaks when it doesn't work as expected.
 

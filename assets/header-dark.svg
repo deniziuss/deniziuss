@@ -1,0 +1,54 @@
+<svg
+  width="1200"
+  height="320"
+  viewBox="0 0 1200 320"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <rect
+    width="1200"
+    height="320"
+    rx="18"
+    fill="#080D18"
+  />
+
+  <text
+    x="60"
+    y="70"
+    fill="#22D3EE"
+    font-family="monospace"
+    font-size="16"
+  >
+    SYSTEMS / INTELLIGENCE
+  </text>
+
+  <text
+    x="60"
+    y="145"
+    fill="#F8FAFC"
+    font-family="Arial, sans-serif"
+    font-size="42"
+    font-weight="700"
+  >
+    Nevzat Deniz Fersiz
+  </text>
+
+  <text
+    x="60"
+    y="190"
+    fill="#94A3B8"
+    font-family="monospace"
+    font-size="20"
+  >
+    Software Development · Cybersecurity · AI
+  </text>
+
+  <text
+    x="60"
+    y="235"
+    fill="#64748B"
+    font-family="monospace"
+    font-size="16"
+  >
+    Python · C# · C++ · Linux · Networking
+  </text>
+</svg>

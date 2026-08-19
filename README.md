@@ -44,3 +44,24 @@ Rather than focusing only on individual technologies, I’m interested in unders
 
 **Focus —** Software Development · Cybersecurity · Networking · AI & Automation  
 **Approach —** Build · Analyze · Learn · Improve
+
+## 02 / FOCUS
+
+### Software Development
+
+Building practical applications, developer tools and system-oriented software with a focus on clean structure, maintainability and real-world use.
+
+`Python` · `C#` · `C++` · `.NET` · `WPF`
+
+### Cybersecurity & Networking
+
+Exploring how systems communicate, how networks behave and how software can be used to analyze, diagnose and secure them.
+
+`Linux` · `TCP/IP` · `DNS` · `Network Analysis` · `Security`
+
+### AI & Automation
+
+Experimenting with artificial intelligence, APIs and automation to build software that can analyze information, reduce repetitive work and assist decision-making.
+
+`Python` · `LLMs` · `APIs` · `Automation`
+

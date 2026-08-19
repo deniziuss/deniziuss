@@ -20,17 +20,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/deniziuss?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJELER-İncele-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Projeler">
-  </a>
-
-  <a href="LINKEDIN_LINKINIZ">
-    <img src="https://img.shields.io/badge/LINKEDIN-Bağlantı-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn">
-  </a>
-
-  <a href="mailto:MAIL_ADRESINIZ">
-    <img src="https://img.shields.io/badge/E--POSTA-İletişim-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="E-posta">
-  </a>
+<a href="https://github.com/deniziuss?tab=repositories"><img src="https://img.shields.io/badge/PROJELER-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Projeler"></a>
+<a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"></a>
+<a href="mailto:denizfersiz3@gmail.com"><img src="https://img.shields.io/badge/E--POSTA-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="E-posta"></a>
 </p>
 
 <p align="center">

@@ -33,3 +33,14 @@
   &nbsp;•&nbsp;
   <a href="./README.tr.md">Türkçe</a>
 </p>
+
+## 01 / ABOUT
+
+I’m interested in building practical software at the intersection of **software development, cybersecurity, networking and artificial intelligence**.
+
+My current focus is on developing applications and tools with **Python, C# and C++**, while improving my understanding of systems, networks, automation and AI-assisted software.
+
+Rather than focusing only on individual technologies, I’m interested in understanding how different layers of a system work together — from software and operating systems to networks and intelligent automation.
+
+**Focus —** Software Development · Cybersecurity · Networking · AI & Automation  
+**Approach —** Build · Analyze · Learn · Improve

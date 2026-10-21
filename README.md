@@ -100,21 +100,36 @@ We've already built and tested the credential issuance part, including diploma a
 
 ## 04 / CURRENTLY WORKING ON
 
-My main project right now is the **Diploma and Certificate Verification System**, which I'm building with my friend Enes. I'm using my spare time to work toward the complete application, particularly its data models, security checks, blockchain logic and integration between modules.
+Right now I'm focusing on the **Diploma and Certificate Verification System** with my friend Enes. In my spare time, I'm working toward the full application, bringing credential issuance, verification and blockchain records together.
 
-I'm also exploring smaller ideas around **automation, security and AI**, and I share those when they're ready to demonstrate.
+I also explore **automation, security and AI** through smaller experiments.
 
 ---
 
 ## 05 / TOOLBOX
 
-These are the technologies and areas I currently spend most of my time with.
+Technologies I use in my projects and areas I'm exploring.
 
-| Area                    | Technologies                                     |
-| ----------------------- | ------------------------------------------------ |
-| **Languages**           | `Python` · `C#` · `C++`                          |
-| **Desktop Development** | `.NET` · `Windows Forms` · `WPF`                                   |
-| **Systems**             | `Linux` · `Windows`                              |
-| **Networking**          | `TCP/IP` · `DNS`                                 |
-| **Tools**               | `Git` · `GitHub` · `VS Code`                     |
-| **Exploring**           | `Cybersecurity` · `LLMs` · `APIs` · `Automation` |
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=22D3EE) ![C#](https://img.shields.io/badge/C%23-0B1220?style=for-the-badge&logo=csharp&logoColor=22D3EE) ![C++](https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=22D3EE)
+
+### Desktop Development
+
+![.NET](https://img.shields.io/badge/.NET-0B1220?style=for-the-badge&logo=dotnet&logoColor=22D3EE) ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0B1220?style=for-the-badge&logo=windows&logoColor=22D3EE) ![WPF](https://img.shields.io/badge/WPF-0B1220?style=for-the-badge&logoColor=22D3EE)
+
+### Systems
+
+![Linux](https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=22D3EE) ![Windows](https://img.shields.io/badge/Windows-0B1220?style=for-the-badge&logo=windows&logoColor=22D3EE)
+
+### Networking
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0B1220?style=for-the-badge&logoColor=22D3EE) ![DNS](https://img.shields.io/badge/DNS-0B1220?style=for-the-badge&logoColor=22D3EE)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=8B5CF6) ![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=8B5CF6) ![VS Code](https://img.shields.io/badge/VS%20Code-0B1220?style=for-the-badge&logoColor=8B5CF6)
+
+### Interests
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0B1220?style=for-the-badge&logoColor=8B5CF6) ![LLMs](https://img.shields.io/badge/LLMs-0B1220?style=for-the-badge&logoColor=8B5CF6) ![APIs](https://img.shields.io/badge/APIs-0B1220?style=for-the-badge&logoColor=8B5CF6) ![Automation](https://img.shields.io/badge/Automation-0B1220?style=for-the-badge&logoColor=8B5CF6)

@@ -69,40 +69,40 @@ LLM'ler, API'ler ve otomasyon tarafında denemeler yapıyorum. Özellikle tekrar
 
 ## 03 / ÖNE ÇIKAN ÇALIŞMA
 
-### LocalDPI Analyzer
+### Diploma and Certificate Verification System
 
-LocalDPI Analyzer aslında basit bir düşünceden çıktı: bağlantıda garip bir problem olduğunda tahmin yürütmek yerine, Windows üzerinden neler olduğunu daha düzgün görebileceğim bir araç yapmak istedim.
+Üniversitedeki nesne yönelimli programlama projemiz için arkadaşlarımla birlikte akademik diploma ve sertifikaların düzenlenmesini, yönetilmesini ve doğrulanmasını sağlayan bir C# Windows Forms uygulaması geliştiriyoruz. Sistemin temelinde basitleştirilmiş bir blockchain yapısı bulunuyor.
 
-Şu anda DNS, bağlantı kontrolleri ve DPI veya ağ filtrelemesiyle ilişkili olabilecek problemleri tek yerde inceleyebilmek için geliştirdiğim Windows tabanlı bir teşhis aracı.
+Ödev beş modülden oluşuyor:
 
-Proje hâlâ geliştirme aşamasında. Kullandıkça ve farklı senaryolar denedikçe hem teknik tarafında hem de arayüzünde değişiklikler yapıyorum.
+- **Kimlik Doğrulama ve Üniversite Yönetimi** — kullanıcı erişimi ve üniversite kayıtları
+- **Öğrenci Yönetimi** — üniversitelerle ilişkilendirilmiş öğrenci kayıtları
+- **Diploma ve Sertifika Oluşturma** — benzersiz kimlikler ve SHA-256 hash değerleriyle belge düzenleme
+- **Blockchain Yönetimi** — belge düzenleme ve iptal işlemlerinin blockchain'e kaydedilmesi
+- **Doğrulama ve İptal** — belgelerin geçerliliğinin kontrol edilmesi ve iptal işlemleri
 
-| Alan      | Detay                               |
-| --------- | ----------------------------------- |
-| Dil       | C#                                  |
-| Framework | .NET                                |
-| Arayüz    | WPF                                 |
-| Platform  | Windows                             |
-| Ağ        | DNS · TCP/IP · Bağlantı Kontrolleri |
-| Durum     | Geliştiriliyor                      |
+Hedefimiz, üniversite ve öğrenci kaydından belge oluşturmaya; blockchain kaydından doğrulama ve iptal kontrolüne kadar bütün süreci tek uygulamada birleştirmek.
 
-Şu anda üzerinde çalıştığım bazı kısımlar:
+| Alan | Detay |
+| --- | --- |
+| Dil | C# |
+| Framework | .NET 10 |
+| Arayüz | Windows Forms |
+| Platform | Windows |
+| Konular | OOP · JSON Kayıt · SHA-256 · Blockchain |
+| Durum | Geliştiriliyor · Takım entegrasyonu devam ediyor |
 
-* Ağ ve bağlantı kontrolleri
-* DNS davranışı ve çözümleme
-* Temel bağlantı teşhisi
-* DPI ile ilişkili problemlerin incelenmesi
-* Teşhis sonuçlarını daha okunabilir hâle getirmek
+Ben ağırlıklı olarak **diploma ve sertifika oluşturma** modülünde çalışıyorum. Özellikle belge modelleri, SHA-256 hesaplaması ve belge detay ekranıyla ilgileniyorum. Birleştirdiğimiz Team 3 modülü belge oluşturup JSON'a kaydedebiliyor; beş modülün tamamının entegrasyonu ise henüz tamamlanmadı.
 
-[Repository'yi görüntüle →](YOUR_LOCALDPI_REPOSITORY_LINK)
+[Team 3 reposunu görüntüle →](https://github.com/deniziuss/DiplomaCertificateVerificationSystem)
 
 ---
 
 ## 04 / ŞU ANDA
 
-Şu anda en çok **LocalDPI Analyzer** üzerinde çalışıyorum. Bunun yanında yazılımın sistem ve ağ tarafına daha yakın kısımlarında kendimi geliştirmeye çalışıyorum.
+Şu anda ağırlıklı olarak **Diploma and Certificate Verification System** üzerinde çalışıyorum. Bizim belge oluşturma modülünü diğer ekiplerin üniversite, öğrenci, blockchain ve doğrulama modülleriyle birleştirmek bir sonraki aşama.
 
-Otomasyon, güvenlik ve yapay zekâ tarafında da daha küçük denemelerim var. Ama bunları sırf profil dolu görünsün diye buraya koymak istemiyorum. Ortaya gerçekten göstermek istediğim bir şey çıktıkça eklemeyi tercih ediyorum.
+Bunun dışında **otomasyon, güvenlik ve yapay zekâ** alanlarında daha küçük denemeler yapıyorum. Burada ise gerçekten gösterebileceğim aşamaya gelen çalışmaları paylaşmayı tercih ediyorum.
 
 ---
 
@@ -113,7 +113,7 @@ Otomasyon, güvenlik ve yapay zekâ tarafında da daha küçük denemelerim var.
 | Alan                       | Teknolojiler                                   |
 | -------------------------- | ---------------------------------------------- |
 | **Programlama Dilleri**    | `Python` · `C#` · `C++`                        |
-| **Masaüstü Geliştirme**    | `.NET` · `WPF`                                 |
+| **Masaüstü Geliştirme**    | `.NET` · `Windows Forms` · `WPF`                                 |
 | **Sistemler**              | `Linux` · `Windows`                            |
 | **Ağ Teknolojileri**       | `TCP/IP` · `DNS`                               |
 | **Araçlar**                | `Git` · `GitHub` · `VS Code`                   |

@@ -12,6 +12,7 @@
     width="100%"
     alt="Deniz Fersiz — Software Development, Cybersecurity and AI"
   >
+</picture>
 
 <p align="center">
 <a href="https://github.com/deniziuss?tab=repositories"><img src="https://img.shields.io/badge/PROJELER-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Projeler"></a>
@@ -100,36 +101,55 @@ We've already built and tested the credential issuance part, including diploma a
 
 ## 04 / CURRENTLY WORKING ON
 
-Right now I'm focusing on the **Diploma and Certificate Verification System** with my friend Enes. In my spare time, I'm working toward the full application, bringing credential issuance, verification and blockchain records together.
+I'm currently focused on the **Diploma and Certificate Verification System** with my friend Enes. In my spare time, I'm working on the remaining modules and bringing credential issuance, SHA-256 integrity checks and blockchain operations together in one application.
 
-I also explore **automation, security and AI** through smaller experiments.
+I'm also exploring ideas around **automation, cybersecurity and AI**.
 
 ---
 
 ## 05 / TOOLBOX
 
-Technologies I use in my projects and areas I'm exploring.
+The technologies I work with and the areas I'm exploring.
 
-### Programming Languages
+**01 / Languages**
 
-![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=22D3EE) ![C#](https://img.shields.io/badge/C%23-0B1220?style=for-the-badge&logo=csharp&logoColor=22D3EE) ![C++](https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=22D3EE)
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&amp;logo=python&amp;logoColor=22D3EE" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&amp;logo=csharp&amp;logoColor=22D3EE" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=22D3EE" alt="C++" />
+</p>
 
-### Desktop Development
+**02 / Desktop Development**
 
-![.NET](https://img.shields.io/badge/.NET-0B1220?style=for-the-badge&logo=dotnet&logoColor=22D3EE) ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0B1220?style=for-the-badge&logo=windows&logoColor=22D3EE) ![WPF](https://img.shields.io/badge/WPF-0B1220?style=for-the-badge&logoColor=22D3EE)
+<p>
+  <img src="https://img.shields.io/badge/.NET-111827?style=for-the-badge&amp;logo=dotnet&amp;logoColor=8B5CF6" alt=".NET" />
+  <img src="https://img.shields.io/badge/Windows_Forms-111827?style=for-the-badge&amp;logoColor=8B5CF6" alt="Windows Forms" />
+  <img src="https://img.shields.io/badge/WPF-111827?style=for-the-badge&amp;logoColor=8B5CF6" alt="WPF" />
+</p>
 
-### Systems
+**03 / Systems & Networking**
 
-![Linux](https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=22D3EE) ![Windows](https://img.shields.io/badge/Windows-0B1220?style=for-the-badge&logo=windows&logoColor=22D3EE)
+<p>
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&amp;logo=linux&amp;logoColor=22D3EE" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&amp;logo=windows&amp;logoColor=22D3EE" alt="Windows" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-111827?style=for-the-badge&amp;logoColor=22D3EE" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/DNS-111827?style=for-the-badge&amp;logoColor=22D3EE" alt="DNS" />
+</p>
 
-### Networking
+**04 / Developer Tools**
 
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0B1220?style=for-the-badge&logoColor=22D3EE) ![DNS](https://img.shields.io/badge/DNS-0B1220?style=for-the-badge&logoColor=22D3EE)
+<p>
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&amp;logo=git&amp;logoColor=8B5CF6" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&amp;logo=github&amp;logoColor=8B5CF6" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&amp;logoColor=8B5CF6" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-111827?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=8B5CF6" alt="Visual Studio" />
+</p>
 
-### Development Tools
+**05 / Exploring**
 
-![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=8B5CF6) ![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=8B5CF6) ![VS Code](https://img.shields.io/badge/VS%20Code-0B1220?style=for-the-badge&logoColor=8B5CF6)
-
-### Interests
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0B1220?style=for-the-badge&logoColor=8B5CF6) ![LLMs](https://img.shields.io/badge/LLMs-0B1220?style=for-the-badge&logoColor=8B5CF6) ![APIs](https://img.shields.io/badge/APIs-0B1220?style=for-the-badge&logoColor=8B5CF6) ![Automation](https://img.shields.io/badge/Automation-0B1220?style=for-the-badge&logoColor=8B5CF6)
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/APIs-111827?style=for-the-badge" alt="APIs" />
+  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge" alt="Automation" />
+</p>

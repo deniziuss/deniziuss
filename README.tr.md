@@ -71,9 +71,7 @@ LLM'ler, API'ler ve otomasyon tarafında denemeler yapıyorum. Özellikle tekrar
 
 ### Diploma and Certificate Verification System
 
-Bu projeyi arkadaşım **Enes Taş** ile birlikte geliştiriyorum. Üniversitedeki nesne yönelimli programlama ödevimiz olarak başladı ancak boş zamanlarımızda yalnızca tek bir modülle sınırlı kalmadan sistemin tamamını geliştirmeyi hedefliyoruz.
-
-Amacımız, akademik diploma ve sertifikaların oluşturulabildiği, kayıtlarının tutulabildiği ve geçerliliklerinin kontrol edilebildiği bir Windows masaüstü uygulaması hazırlamak. C# ve Windows Forms kullanıyoruz. Belgelerin bütünlüğünü kontrol etmek için SHA-256, belge işlemlerini kayıt altına almak için de basitleştirilmiş bir blockchain yapısı tasarlıyoruz.
+Ben ve arkadaşım, üniversitedeki nesne yönelimli programlama ödevimiz kapsamında **C# ve Windows Forms** ile diploma ve sertifika doğrulama sistemi geliştiriyoruz. Belge oluşturma, kayıt yönetimi, **SHA-256** bütünlük kontrolü ve basitleştirilmiş **blockchain** yapısını tek uygulamada birleştirmeyi hedefliyoruz.
 
 Sistem beş ana bölümden oluşuyor:
 

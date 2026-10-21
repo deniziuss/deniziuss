@@ -70,38 +70,41 @@ I experiment with LLMs, APIs and automation where they can save time, process in
 
 ### Diploma and Certificate Verification System
 
-I'm working with classmates on a C# Windows Forms application for issuing, managing and verifying academic diplomas and certificates. It's a university object-oriented programming project built around a simplified blockchain design.
+I'm developing this project with my friend **Enes Taş**. It started as a university object-oriented programming assignment, but we're working on the full system in our spare time rather than stopping at a single module.
 
-The full assignment is split into five connected modules:
+The idea is to build a Windows desktop application that can issue academic diplomas and certificates, keep track of them and verify whether a document is genuine and still valid. We're using C# and Windows Forms, with SHA-256 hashing and a simplified blockchain for recording credential activity.
 
-- **Authentication and University Management** — user access and university records
-- **Student Management** — student records linked to universities
-- **Credential Issuance** — generating diplomas and certificates with unique IDs and SHA-256 hashes
-- **Blockchain Management** — recording issuance and revocation transactions in a simplified blockchain
-- **Verification and Revocation** — checking credential validity and handling revoked credentials
+The application is designed around five parts:
 
-The intended workflow covers everything from university and student registration to issuing a credential, recording it on the blockchain and checking whether it is still valid.
+- **Authentication and University Management** — managing user access and university records
+- **Student Management** — registering students and associating them with universities
+- **Diploma and Certificate Issuance** — creating credentials with unique IDs, document details and SHA-256 hashes
+- **Blockchain Management** — recording issuance and revocation transactions in linked blocks
+- **Verification and Revocation** — checking credential integrity, looking up blockchain records and revoking credentials when necessary
+
+Our goal is to connect these into one workflow: **login → university registration → student registration → credential issuance → blockchain registration → verification and revocation**.
 
 | Area | Details |
 | --- | --- |
+| Developers | Deniz Fersiz & Enes Taş |
 | Language | C# |
 | Framework | .NET 10 |
 | Interface | Windows Forms |
 | Platform | Windows |
-| Concepts | OOP · JSON Storage · SHA-256 · Blockchain |
-| Status | In development · Team integration pending |
+| Concepts | OOP · JSON · SHA-256 · Blockchain |
+| Status | In development |
 
-My contribution is in **credential issuance**, particularly the diploma and certificate models, SHA-256 hashing and the credential details screen. The combined Team 3 module can issue credentials and save them to JSON; the complete five-module application is still being integrated.
+We've already built and tested the credential issuance part, including diploma and certificate models, hash validation, the issuing interface and JSON persistence. We're continuing work on the remaining modules and full-system integration.
 
-[View the Team 3 repository →](https://github.com/deniziuss/DiplomaCertificateVerificationSystem)
+[View the project repository →](https://github.com/deniziuss/DiplomaCertificateVerificationSystem)
 
 ---
 
 ## 04 / CURRENTLY WORKING ON
 
-Right now I'm focused on the **Diploma and Certificate Verification System**, especially connecting our credential issuance work with the other teams' university, student, blockchain and verification modules.
+My main project right now is the **Diploma and Certificate Verification System**, which I'm building with my friend Enes. I'm using my spare time to work toward the complete application, particularly its data models, security checks, blockchain logic and integration between modules.
 
-I'm also exploring smaller ideas around **automation, security and AI**, but I prefer sharing them once there's something useful to show.
+I'm also exploring smaller ideas around **automation, security and AI**, and I share those when they're ready to demonstrate.
 
 ---
 

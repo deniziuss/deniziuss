@@ -68,40 +68,40 @@ I experiment with LLMs, APIs and automation where they can save time, process in
 
 ## 03 / FEATURED WORK
 
-### LocalDPI Analyzer
+### Diploma and Certificate Verification System
 
-LocalDPI Analyzer started from a simple idea: when a connection behaves strangely, I wanted to be able to inspect what is happening instead of guessing where the problem is.
+I'm working with classmates on a C# Windows Forms application for issuing, managing and verifying academic diplomas and certificates. It's a university object-oriented programming project built around a simplified blockchain design.
 
-It's a Windows-based diagnostic tool I'm developing to bring different network checks into one place, with a focus on DNS, connectivity and problems that may be related to DPI or network filtering.
+The full assignment is split into five connected modules:
 
-The project is still under development, so I'm continuing to change both the technical side and the interface as I test different approaches.
+- **Authentication and University Management** — user access and university records
+- **Student Management** — student records linked to universities
+- **Credential Issuance** — generating diplomas and certificates with unique IDs and SHA-256 hashes
+- **Blockchain Management** — recording issuance and revocation transactions in a simplified blockchain
+- **Verification and Revocation** — checking credential validity and handling revoked credentials
 
-| Area       | Details                            |
-| ---------- | ---------------------------------- |
-| Language   | C#                                 |
-| Framework  | .NET                               |
-| Interface  | WPF                                |
-| Platform   | Windows                            |
-| Networking | DNS · TCP/IP · Connectivity Checks |
-| Status     | In Development                     |
+The intended workflow covers everything from university and student registration to issuing a credential, recording it on the blockchain and checking whether it is still valid.
 
-Some of the areas I'm currently working on:
+| Area | Details |
+| --- | --- |
+| Language | C# |
+| Framework | .NET 10 |
+| Interface | Windows Forms |
+| Platform | Windows |
+| Concepts | OOP · JSON Storage · SHA-256 · Blockchain |
+| Status | In development · Team integration pending |
 
-* Network and connectivity checks
-* DNS behavior and resolution
-* Basic connection diagnostics
-* DPI-related troubleshooting
-* Making diagnostic results easier to read and compare
+My contribution is in **credential issuance**, particularly the diploma and certificate models, SHA-256 hashing and the credential details screen. The combined Team 3 module can issue credentials and save them to JSON; the complete five-module application is still being integrated.
 
-[View repository →](YOUR_LOCALDPI_REPOSITORY_LINK)
+[View the Team 3 repository →](https://github.com/deniziuss/DiplomaCertificateVerificationSystem)
 
 ---
 
 ## 04 / CURRENTLY WORKING ON
 
-Right now I'm mainly focused on improving **LocalDPI Analyzer** and getting more comfortable with the parts of software development that sit closer to systems and networking.
+Right now I'm focused on the **Diploma and Certificate Verification System**, especially connecting our credential issuance work with the other teams' university, student, blockchain and verification modules.
 
-I'm also experimenting with smaller projects around **automation, security and AI**, but I prefer adding them here once they reach a point where I think they're actually worth showing.
+I'm also exploring smaller ideas around **automation, security and AI**, but I prefer sharing them once there's something useful to show.
 
 ---
 
@@ -112,7 +112,7 @@ These are the technologies and areas I currently spend most of my time with.
 | Area                    | Technologies                                     |
 | ----------------------- | ------------------------------------------------ |
 | **Languages**           | `Python` · `C#` · `C++`                          |
-| **Desktop Development** | `.NET` · `WPF`                                   |
+| **Desktop Development** | `.NET` · `Windows Forms` · `WPF`                                   |
 | **Systems**             | `Linux` · `Windows`                              |
 | **Networking**          | `TCP/IP` · `DNS`                                 |
 | **Tools**               | `Git` · `GitHub` · `VS Code`                     |

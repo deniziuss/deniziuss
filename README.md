@@ -70,9 +70,7 @@ I experiment with LLMs, APIs and automation where they can save time, process in
 
 ### Diploma and Certificate Verification System
 
-I'm developing this project with my friend **Enes Taş**. It started as a university object-oriented programming assignment, but we're working on the full system in our spare time rather than stopping at a single module.
-
-The idea is to build a Windows desktop application that can issue academic diplomas and certificates, keep track of them and verify whether a document is genuine and still valid. We're using C# and Windows Forms, with SHA-256 hashing and a simplified blockchain for recording credential activity.
+A friend and I are developing a diploma and certificate verification system in **C# and Windows Forms** as part of our university object-oriented programming project. Our goal is to bring credential issuance, record management, **SHA-256** integrity checks and a simplified **blockchain** into one application.
 
 The application is designed around five parts:
 

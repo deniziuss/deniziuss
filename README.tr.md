@@ -101,21 +101,36 @@ Hedeflediğimiz akış: **giriş → üniversite kaydı → öğrenci kaydı →
 
 ## 04 / ŞU ANDA
 
-Şu sıralar en çok **Diploma and Certificate Verification System** üzerinde çalışıyorum. Arkadaşım Enes'le birlikte geliştirdiğimiz bu projeyi boş zamanlarımda tamamlamayı hedefliyorum. Özellikle veri modelleri, güvenlik kontrolleri, blockchain mantığı ve modüllerin birbiriyle çalışması üzerine yoğunlaşıyorum.
+Bu aralar arkadaşım Enes'le geliştirdiğimiz **Diploma and Certificate Verification System** üzerine yoğunlaşıyorum. Boş zamanlarımda sistemin tüm modüllerini tamamlayıp belge oluşturma, doğrulama ve blockchain işlemlerini tek uygulamada birleştirmeyi hedefliyorum.
 
-Bunun dışında **otomasyon, güvenlik ve yapay zekâ** alanlarında daha küçük denemelerim var. Burada da gösterebileceğim aşamaya gelen çalışmaları paylaşmayı tercih ediyorum.
+Bunun dışında **otomasyon, güvenlik ve yapay zekâ** alanlarında da denemeler yapıyorum.
 
 ---
 
 ## 05 / KULLANDIKLARIM
 
-Şu anda en çok zaman ayırdığım teknolojiler ve alanlar bunlar.
+Projelerimde kullandığım teknolojiler ve üzerinde çalıştığım alanlar.
 
-| Alan                       | Teknolojiler                                   |
-| -------------------------- | ---------------------------------------------- |
-| **Programlama Dilleri**    | `Python` · `C#` · `C++`                        |
-| **Masaüstü Geliştirme**    | `.NET` · `Windows Forms` · `WPF`                                 |
-| **Sistemler**              | `Linux` · `Windows`                            |
-| **Ağ Teknolojileri**       | `TCP/IP` · `DNS`                               |
-| **Araçlar**                | `Git` · `GitHub` · `VS Code`                   |
-| **Üzerinde Çalıştıklarım** | `Siber Güvenlik` · `LLM` · `API` · `Otomasyon` |
+### Programlama Dilleri
+
+![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=22D3EE) ![C#](https://img.shields.io/badge/C%23-0B1220?style=for-the-badge&logo=csharp&logoColor=22D3EE) ![C++](https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=22D3EE)
+
+### Masaüstü Geliştirme
+
+![.NET](https://img.shields.io/badge/.NET-0B1220?style=for-the-badge&logo=dotnet&logoColor=22D3EE) ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0B1220?style=for-the-badge&logo=windows&logoColor=22D3EE) ![WPF](https://img.shields.io/badge/WPF-0B1220?style=for-the-badge&logoColor=22D3EE)
+
+### Sistemler
+
+![Linux](https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=22D3EE) ![Windows](https://img.shields.io/badge/Windows-0B1220?style=for-the-badge&logo=windows&logoColor=22D3EE)
+
+### Ağ Teknolojileri
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0B1220?style=for-the-badge&logoColor=22D3EE) ![DNS](https://img.shields.io/badge/DNS-0B1220?style=for-the-badge&logoColor=22D3EE)
+
+### Geliştirme Araçları
+
+![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=8B5CF6) ![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=8B5CF6) ![VS Code](https://img.shields.io/badge/VS%20Code-0B1220?style=for-the-badge&logoColor=8B5CF6)
+
+### İlgi Alanlarım
+
+![Siber Güvenlik](https://img.shields.io/badge/Siber%20G%C3%BCvenlik-0B1220?style=for-the-badge&logoColor=8B5CF6) ![LLMs](https://img.shields.io/badge/LLMs-0B1220?style=for-the-badge&logoColor=8B5CF6) ![APIs](https://img.shields.io/badge/APIs-0B1220?style=for-the-badge&logoColor=8B5CF6) ![Otomasyon](https://img.shields.io/badge/Otomasyon-0B1220?style=for-the-badge&logoColor=8B5CF6)

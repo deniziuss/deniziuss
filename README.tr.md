@@ -71,38 +71,41 @@ LLM'ler, API'ler ve otomasyon tarafında denemeler yapıyorum. Özellikle tekrar
 
 ### Diploma and Certificate Verification System
 
-Üniversitedeki nesne yönelimli programlama projemiz için arkadaşlarımla birlikte akademik diploma ve sertifikaların düzenlenmesini, yönetilmesini ve doğrulanmasını sağlayan bir C# Windows Forms uygulaması geliştiriyoruz. Sistemin temelinde basitleştirilmiş bir blockchain yapısı bulunuyor.
+Bu projeyi arkadaşım **Enes Taş** ile birlikte geliştiriyorum. Üniversitedeki nesne yönelimli programlama ödevimiz olarak başladı ancak boş zamanlarımızda yalnızca tek bir modülle sınırlı kalmadan sistemin tamamını geliştirmeyi hedefliyoruz.
 
-Ödev beş modülden oluşuyor:
+Amacımız, akademik diploma ve sertifikaların oluşturulabildiği, kayıtlarının tutulabildiği ve geçerliliklerinin kontrol edilebildiği bir Windows masaüstü uygulaması hazırlamak. C# ve Windows Forms kullanıyoruz. Belgelerin bütünlüğünü kontrol etmek için SHA-256, belge işlemlerini kayıt altına almak için de basitleştirilmiş bir blockchain yapısı tasarlıyoruz.
+
+Sistem beş ana bölümden oluşuyor:
 
 - **Kimlik Doğrulama ve Üniversite Yönetimi** — kullanıcı erişimi ve üniversite kayıtları
-- **Öğrenci Yönetimi** — üniversitelerle ilişkilendirilmiş öğrenci kayıtları
-- **Diploma ve Sertifika Oluşturma** — benzersiz kimlikler ve SHA-256 hash değerleriyle belge düzenleme
-- **Blockchain Yönetimi** — belge düzenleme ve iptal işlemlerinin blockchain'e kaydedilmesi
-- **Doğrulama ve İptal** — belgelerin geçerliliğinin kontrol edilmesi ve iptal işlemleri
+- **Öğrenci Yönetimi** — öğrenci oluşturma ve üniversitelerle ilişkilendirme
+- **Diploma ve Sertifika Oluşturma** — benzersiz kimlikler, belge bilgileri ve SHA-256 hash değerleriyle kayıt oluşturma
+- **Blockchain Yönetimi** — belge düzenleme ve iptal işlemlerini birbirine bağlı bloklarda saklama
+- **Doğrulama ve İptal** — belge bütünlüğünü kontrol etme, blockchain kayıtlarını sorgulama ve gerekli durumlarda belge iptali
 
-Hedefimiz, üniversite ve öğrenci kaydından belge oluşturmaya; blockchain kaydından doğrulama ve iptal kontrolüne kadar bütün süreci tek uygulamada birleştirmek.
+Hedeflediğimiz akış: **giriş → üniversite kaydı → öğrenci kaydı → belge oluşturma → blockchain kaydı → doğrulama ve iptal**. Bu işlemleri tek bir uygulamada bir araya getirmek istiyoruz.
 
 | Alan | Detay |
 | --- | --- |
+| Geliştirenler | Deniz Fersiz ve Enes Taş |
 | Dil | C# |
 | Framework | .NET 10 |
 | Arayüz | Windows Forms |
 | Platform | Windows |
-| Konular | OOP · JSON Kayıt · SHA-256 · Blockchain |
-| Durum | Geliştiriliyor · Takım entegrasyonu devam ediyor |
+| Konular | OOP · JSON · SHA-256 · Blockchain |
+| Durum | Geliştiriliyor |
 
-Ben ağırlıklı olarak **diploma ve sertifika oluşturma** modülünde çalışıyorum. Özellikle belge modelleri, SHA-256 hesaplaması ve belge detay ekranıyla ilgileniyorum. Birleştirdiğimiz Team 3 modülü belge oluşturup JSON'a kaydedebiliyor; beş modülün tamamının entegrasyonu ise henüz tamamlanmadı.
+Şu ana kadar diploma ve sertifika oluşturma bölümünü geliştirip test ettik. Belge modelleri, hash doğrulaması, oluşturma arayüzü ve JSON kayıt sistemi çalışıyor. Diğer modülleri ve sistemin bütünleşik hâlini geliştirmeye devam ediyoruz.
 
-[Team 3 reposunu görüntüle →](https://github.com/deniziuss/DiplomaCertificateVerificationSystem)
+[Projenin GitHub reposunu görüntüle →](https://github.com/deniziuss/DiplomaCertificateVerificationSystem)
 
 ---
 
 ## 04 / ŞU ANDA
 
-Şu anda ağırlıklı olarak **Diploma and Certificate Verification System** üzerinde çalışıyorum. Bizim belge oluşturma modülünü diğer ekiplerin üniversite, öğrenci, blockchain ve doğrulama modülleriyle birleştirmek bir sonraki aşama.
+Şu sıralar en çok **Diploma and Certificate Verification System** üzerinde çalışıyorum. Arkadaşım Enes'le birlikte geliştirdiğimiz bu projeyi boş zamanlarımda tamamlamayı hedefliyorum. Özellikle veri modelleri, güvenlik kontrolleri, blockchain mantığı ve modüllerin birbiriyle çalışması üzerine yoğunlaşıyorum.
 
-Bunun dışında **otomasyon, güvenlik ve yapay zekâ** alanlarında daha küçük denemeler yapıyorum. Burada ise gerçekten gösterebileceğim aşamaya gelen çalışmaları paylaşmayı tercih ediyorum.
+Bunun dışında **otomasyon, güvenlik ve yapay zekâ** alanlarında daha küçük denemelerim var. Burada da gösterebileceğim aşamaya gelen çalışmaları paylaşmayı tercih ediyorum.
 
 ---
 

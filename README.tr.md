@@ -101,36 +101,55 @@ Hedeflediğimiz akış: **giriş → üniversite kaydı → öğrenci kaydı →
 
 ## 04 / ŞU ANDA
 
-Bu aralar arkadaşım Enes'le geliştirdiğimiz **Diploma and Certificate Verification System** üzerine yoğunlaşıyorum. Boş zamanlarımda sistemin tüm modüllerini tamamlayıp belge oluşturma, doğrulama ve blockchain işlemlerini tek uygulamada birleştirmeyi hedefliyorum.
+Şu sıralar arkadaşım Enes'le geliştirdiğimiz **Diploma and Certificate Verification System** projesine odaklanıyorum. Boş zamanlarımda kalan modülleri tamamlamak ve belge oluşturma, SHA-256 doğrulama ve blockchain işlemlerini tek uygulamada birleştirmek için çalışıyorum.
 
-Bunun dışında **otomasyon, güvenlik ve yapay zekâ** alanlarında da denemeler yapıyorum.
+Bunun dışında **otomasyon, güvenlik ve yapay zekâ** alanlarında da yeni fikirler deniyorum.
 
 ---
 
 ## 05 / KULLANDIKLARIM
 
-Projelerimde kullandığım teknolojiler ve üzerinde çalıştığım alanlar.
+Şu anda çalıştığım teknolojiler ve ilgi alanlarım.
 
-### Programlama Dilleri
+**01 / Programlama Dilleri**
 
-![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=22D3EE) ![C#](https://img.shields.io/badge/C%23-0B1220?style=for-the-badge&logo=csharp&logoColor=22D3EE) ![C++](https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=22D3EE)
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&amp;logo=python&amp;logoColor=22D3EE" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&amp;logo=csharp&amp;logoColor=22D3EE" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=22D3EE" alt="C++" />
+</p>
 
-### Masaüstü Geliştirme
+**02 / Masaüstü Geliştirme**
 
-![.NET](https://img.shields.io/badge/.NET-0B1220?style=for-the-badge&logo=dotnet&logoColor=22D3EE) ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0B1220?style=for-the-badge&logo=windows&logoColor=22D3EE) ![WPF](https://img.shields.io/badge/WPF-0B1220?style=for-the-badge&logoColor=22D3EE)
+<p>
+  <img src="https://img.shields.io/badge/.NET-111827?style=for-the-badge&amp;logo=dotnet&amp;logoColor=8B5CF6" alt=".NET" />
+  <img src="https://img.shields.io/badge/Windows_Forms-111827?style=for-the-badge&amp;logoColor=8B5CF6" alt="Windows Forms" />
+  <img src="https://img.shields.io/badge/WPF-111827?style=for-the-badge&amp;logoColor=8B5CF6" alt="WPF" />
+</p>
 
-### Sistemler
+**03 / Sistemler ve Ağ**
 
-![Linux](https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=22D3EE) ![Windows](https://img.shields.io/badge/Windows-0B1220?style=for-the-badge&logo=windows&logoColor=22D3EE)
+<p>
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&amp;logo=linux&amp;logoColor=22D3EE" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&amp;logo=windows&amp;logoColor=22D3EE" alt="Windows" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-111827?style=for-the-badge&amp;logoColor=22D3EE" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/DNS-111827?style=for-the-badge&amp;logoColor=22D3EE" alt="DNS" />
+</p>
 
-### Ağ Teknolojileri
+**04 / Geliştirme Araçları**
 
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0B1220?style=for-the-badge&logoColor=22D3EE) ![DNS](https://img.shields.io/badge/DNS-0B1220?style=for-the-badge&logoColor=22D3EE)
+<p>
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&amp;logo=git&amp;logoColor=8B5CF6" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&amp;logo=github&amp;logoColor=8B5CF6" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&amp;logoColor=8B5CF6" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-111827?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=8B5CF6" alt="Visual Studio" />
+</p>
 
-### Geliştirme Araçları
+**05 / İlgi Alanları**
 
-![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=8B5CF6) ![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=8B5CF6) ![VS Code](https://img.shields.io/badge/VS%20Code-0B1220?style=for-the-badge&logoColor=8B5CF6)
-
-### İlgi Alanlarım
-
-![Siber Güvenlik](https://img.shields.io/badge/Siber%20G%C3%BCvenlik-0B1220?style=for-the-badge&logoColor=8B5CF6) ![LLMs](https://img.shields.io/badge/LLMs-0B1220?style=for-the-badge&logoColor=8B5CF6) ![APIs](https://img.shields.io/badge/APIs-0B1220?style=for-the-badge&logoColor=8B5CF6) ![Otomasyon](https://img.shields.io/badge/Otomasyon-0B1220?style=for-the-badge&logoColor=8B5CF6)
+<p>
+  <img src="https://img.shields.io/badge/Siber_G%C3%BCvenlik-111827?style=for-the-badge" alt="Siber Güvenlik" />
+  <img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge" alt="LLM" />
+  <img src="https://img.shields.io/badge/API-111827?style=for-the-badge" alt="API" />
+  <img src="https://img.shields.io/badge/Otomasyon-111827?style=for-the-badge" alt="Otomasyon" />
+</p>

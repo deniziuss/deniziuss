@@ -85,7 +85,7 @@ Our goal is to connect these into one workflow: **login → university registrat
 
 | Area | Details |
 | --- | --- |
-| Developers | Deniz Fersiz & Enes Taş |
+| Developers | A friend and I |
 | Language | C# |
 | Framework | .NET 10 |
 | Interface | Windows Forms |
@@ -101,7 +101,7 @@ We've already built and tested the credential issuance part, including diploma a
 
 ## 04 / CURRENTLY WORKING ON
 
-I'm currently focused on the **Diploma and Certificate Verification System** with my friend Enes. In my spare time, I'm working on the remaining modules and bringing credential issuance, SHA-256 integrity checks and blockchain operations together in one application.
+I'm currently focused on the **Diploma and Certificate Verification System**, which I'm developing with a friend. In my spare time, I'm working on the remaining modules and bringing credential issuance, SHA-256 integrity checks and blockchain operations together in one application.
 
 I'm also exploring ideas around **automation, cybersecurity and AI**.
 

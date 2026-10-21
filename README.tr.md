@@ -85,7 +85,7 @@ Hedeflediğimiz akış: **giriş → üniversite kaydı → öğrenci kaydı →
 
 | Alan | Detay |
 | --- | --- |
-| Geliştirenler | Deniz Fersiz ve Enes Taş |
+| Geliştirenler | Ben ve bir arkadaşım |
 | Dil | C# |
 | Framework | .NET 10 |
 | Arayüz | Windows Forms |
@@ -101,7 +101,7 @@ Hedeflediğimiz akış: **giriş → üniversite kaydı → öğrenci kaydı →
 
 ## 04 / ŞU ANDA
 
-Şu sıralar arkadaşım Enes'le geliştirdiğimiz **Diploma and Certificate Verification System** projesine odaklanıyorum. Boş zamanlarımda kalan modülleri tamamlamak ve belge oluşturma, SHA-256 doğrulama ve blockchain işlemlerini tek uygulamada birleştirmek için çalışıyorum.
+Şu sıralar bir arkadaşımla geliştirdiğimiz **Diploma and Certificate Verification System** projesine odaklanıyorum. Boş zamanlarımda kalan modülleri tamamlamak ve belge oluşturma, SHA-256 doğrulama ve blockchain işlemlerini tek uygulamada birleştirmek için çalışıyorum.
 
 Bunun dışında **otomasyon, güvenlik ve yapay zekâ** alanlarında da yeni fikirler deniyorum.
 

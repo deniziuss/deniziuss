@@ -1,84 +1,86 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-dark.svg" width="100%" alt="Deniz Fersiz — Software Development, Cybersecurity and AI">
-</picture>
+<p align="center"><img src="./assets/profile/hero-tr.svg" width="100%" alt="Deniz Fersiz — yazılım, sistemler ve yapay zekâ"></p>
+<p align="center"><a href="./README.md"><img alt="TÜRKÇE ✓" src="https://img.shields.io/badge/T%C3%9CRK%C3%87E%20%E2%9C%93-137FA1?style=for-the-badge&amp;logoColor=EDF7FD" /></a> <a href="./README.en.md"><img alt="ENGLISH" src="https://img.shields.io/badge/ENGLISH-293D51?style=for-the-badge&amp;logoColor=EDF7FD" /></a></p>
+<p align="center"><a href="https://denizfersiz.com"><img alt="PORTFOLYO" src="https://img.shields.io/badge/PORTFOLYO-112231?style=for-the-badge&amp;logo=githubpages&amp;logoColor=EDF7FD" /></a> <a href="https://github.com/deniziuss?tab=repositories"><img alt="PROJELER" src="https://img.shields.io/badge/PROJELER-112231?style=for-the-badge&amp;logo=github&amp;logoColor=EDF7FD" /></a> <a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"><img alt="LINKEDIN" src="https://img.shields.io/badge/LINKEDIN-112231?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EDF7FD" /></a> <a href="mailto:denizfersiz3@gmail.com"><img alt="E--POSTA" src="https://img.shields.io/badge/E----POSTA-112231?style=for-the-badge&amp;logo=gmail&amp;logoColor=EDF7FD" /></a></p>
 
-<p align="center">
-  <a href="https://github.com/deniziuss?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Projects"></a>
-  <a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"></a>
-  <a href="mailto:denizfersiz3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"></a>
-</p>
+## 01 / HAKKIMDA
 
-<p align="center">
-  <b>English</b> &nbsp;·&nbsp; <a href="./README.tr.md">Türkçe</a>
-</p>
+**Yazılım geliştirme, sistem mimarisi, siber güvenlik ve uygulamalı yapay zekâ** alanlarına odaklanıyorum. Web ve masaüstü uygulamaları geliştirirken yalnızca çalışan bir sonuç üretmekle değil, sistemin arka planını, teknik kararları ve karşılaşılabilecek sorunları anlamakla ilgileniyorum.
 
-## 01 / ABOUT
+Projelerimde kullanıcı deneyimi, veri yönetimi, yerel yapay zekâ modelleri ve otomasyon gibi alanları bir araya getiriyorum. Hedefim, gerçek problemlere çözüm sunan, sürdürülebilir ve geliştirilebilir yazılımlar oluşturmak.
 
-I develop software with an interest in how systems work beyond the interface. My work spans **web and desktop development**, while I continue exploring **cybersecurity, networking, and applied AI**.
+`Full-stack Development` · `Desktop Systems` · `Cybersecurity` · `Networking` · `Applied AI`
 
-I enjoy understanding the technical decisions behind a solution, working through difficult problems, and turning ideas into practical, reliable projects.
+## 02 / SİSTEM HARİTASI
 
----
+Çalışmalarım web geliştirme, masaüstü sistemleri ve AI destekli iş akışları etrafında birleşiyor. Bu şema, projelerim ve ilgilendiğim teknik alanlar arasındaki bağlantıyı gösteriyor.
 
-## 02 / FOCUS
+<p align="center"><img src="./assets/profile/ecosystem.svg" width="100%" alt="Projeler ve uzmanlık alanları arasındaki bağlantıları gösteren sistem haritası"></p>
 
-- **Software Development** — Web applications, desktop tools, backend logic, and databases.
-- **Cybersecurity & Networking** — Linux, network fundamentals, system behavior, and security concepts.
-- **AI & Automation** — Local models, intelligent workflows, and practical integrations.
+## 03 / ÖNE ÇIKAN PROJELER
 
----
+<p align="center"><img src="./assets/profile/project-board.svg" width="100%" alt="FirstSteps, LAIR ve Diploma Verification proje panosu"></p>
 
-## 03 / SELECTED PROJECTS
+### [01 / FirstSteps](https://github.com/deniziuss/firststeps)
 
-### [FirstSteps](https://github.com/deniziuss/firststeps)
+Uluslararası öğrencilerin yeni bir ülkeye yerleşme sürecini kolaylaştırmak için geliştirdiğim platform. Kişiye özel görev planları, görev bağımlılıkları, kaynak inceleme, ilerleme takibi ve mentor destek sistemi içeriyor. **Yerel ortamda çalışan MVP; henüz yayına alınmadı.**
 
-A personalized relocation and onboarding platform for international students, featuring structured task plans, verified-source workflows, progress tracking, and mentor support.
+`Next.js 16` · `React 19` · `TypeScript` · `SQL Server` · `Tailwind CSS` · `Radix UI` · `Recharts`
 
-`Next.js` · `React` · `TypeScript` · `Microsoft SQL Server` — **Local MVP**
+### 02 / LAIR — Local AI Router
 
-### [Diploma & Certificate Verification System](https://github.com/deniziuss/DiplomaCertificateVerificationSystem)
+Yerel modeller üzerinden görev planlama ve yapay zekâ iş akışı koordinasyonu için geliştirdiğim masaüstü proje. Qwen/Ollama çıkarımı, Python/FastAPI arka ucu, React/Tauri arayüzü ve onaya dayalı manuel görev devri üzerinde çalışıyor. **Geliştirme aşamasında:** uzman yürütme simülasyonla sınırlı; ücretli sağlayıcıların otomatik kullanımı kapalı.
 
-A Windows desktop application for issuing and verifying academic credentials, with SHA-256 integrity checks and JSON-based persistence.
+`Python` · `FastAPI` · `TypeScript` · `React` · `Tauri 2` · `Rust` · `SQLite` · `Ollama` · `LangGraph`
 
-`C#` · `.NET 10` · `Windows Forms` — **In development**
+<sub>LAIR özel bir depoda geliştiriliyor; kaynak kodu herkese açık değil.</sub>
 
----
+### [03 / Diploma & Certificate Verification System](https://github.com/deniziuss/DiplomaCertificateVerificationSystem)
 
-## 04 / TECHNOLOGIES
+Akademik belgelerin oluşturulması ve doğrulanması için geliştirilen C# masaüstü uygulaması. Benzersiz belge kimlikleri, SHA-256 bütünlük kontrolü ve JSON tabanlı kayıt içeriyor. Diğer modüller ve tam entegrasyon üzerinde çalışma sürüyor.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,cs,dotnet,ts,react,nextjs,tailwind,git,linux,vscode,visualstudio&amp;theme=dark&amp;perline=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,cpp,cs,dotnet,ts,react,nextjs,tailwind,git,linux,vscode,visualstudio&amp;theme=light&amp;perline=6">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,dotnet,ts,react,nextjs,tailwind,git,linux,vscode,visualstudio&amp;theme=dark&amp;perline=6" alt="Python, C++, C#, .NET, TypeScript, React, Next.js, Tailwind CSS, Git, Linux, VS Code and Visual Studio">
-  </picture>
-</p>
+`C#` · `.NET 10` · `Windows Forms` · `SHA-256` · `JSON`
 
-<p align="center"><sub>Also working with Microsoft SQL Server · Windows Forms · Vitest · Playwright</sub></p>
+<p align="center"><a href="https://github.com/deniziuss?tab=repositories"><img alt="TÜM AÇIK PROJELER" src="https://img.shields.io/badge/T%C3%9CM%20A%C3%87IK%20PROJELER-112231?style=for-the-badge&amp;logo=github&amp;logoColor=EDF7FD" /></a></p>
 
----
+## 04 / TEKNOLOJİLER
 
-## 05 / GITHUB ACTIVITY
+Sadece GitHub'ın otomatik algıladığı dilleri değil, **FirstSteps, LAIR ve diğer çalışmalarımda kullandığım framework, kütüphane ve araçları** da burada topladım. Bu liste bir yetkinlik puanı veya yüzde grafiği değildir.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deniziuss&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deniziuss&amp;theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deniziuss&amp;theme=github_dark" width="100%" alt="GitHub contribution activity">
-  </picture>
-</p>
+<p align="center"><img src="./assets/profile/stack.svg" width="100%" alt="Projelerle doğrulanan teknolojileri kategorilere ayıran matris"></p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deniziuss&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deniziuss&amp;theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deniziuss&amp;theme=github_dark" width="49%" alt="GitHub statistics">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deniziuss&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deniziuss&amp;theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deniziuss&amp;theme=github_dark" width="49%" alt="Languages represented across GitHub repositories">
-  </picture>
-</p>
+**Languages / Diller**
+
+<p><img alt="Python" src="https://img.shields.io/badge/Python-14263A?style=flat-square&amp;logo=python&amp;logoColor=EDF7FD" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-14263A?style=flat-square&amp;logo=typescript&amp;logoColor=EDF7FD" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-14263A?style=flat-square&amp;logo=javascript&amp;logoColor=EDF7FD" /> <img alt="C#" src="https://img.shields.io/badge/C%23-14263A?style=flat-square&amp;logo=csharp&amp;logoColor=EDF7FD" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-14263A?style=flat-square&amp;logo=cplusplus&amp;logoColor=EDF7FD" /> <img alt="Rust" src="https://img.shields.io/badge/Rust-14263A?style=flat-square&amp;logo=rust&amp;logoColor=EDF7FD" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-14263A?style=flat-square&amp;logoColor=EDF7FD" /></p>
+
+**Web & UI**
+
+<p><img alt="React" src="https://img.shields.io/badge/React-14263A?style=flat-square&amp;logo=react&amp;logoColor=EDF7FD" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-14263A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=EDF7FD" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-14263A?style=flat-square&amp;logo=tailwindcss&amp;logoColor=EDF7FD" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-14263A?style=flat-square&amp;logo=html5&amp;logoColor=EDF7FD" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-14263A?style=flat-square&amp;logo=css3&amp;logoColor=EDF7FD" /> <img alt="Radix UI" src="https://img.shields.io/badge/Radix%20UI-14263A?style=flat-square&amp;logo=radixui&amp;logoColor=EDF7FD" /> <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-14263A?style=flat-square&amp;logoColor=EDF7FD" /></p>
+
+**Desktop / Masaüstü**
+
+<p><img alt=".NET" src="https://img.shields.io/badge/.NET-14263A?style=flat-square&amp;logo=dotnet&amp;logoColor=EDF7FD" /> <img alt="Windows Forms" src="https://img.shields.io/badge/Windows%20Forms-14263A?style=flat-square&amp;logo=windows&amp;logoColor=EDF7FD" /> <img alt="Tauri" src="https://img.shields.io/badge/Tauri-14263A?style=flat-square&amp;logo=tauri&amp;logoColor=EDF7FD" /> <img alt="Vite" src="https://img.shields.io/badge/Vite-14263A?style=flat-square&amp;logo=vite&amp;logoColor=EDF7FD" /> <img alt="Windows" src="https://img.shields.io/badge/Windows-14263A?style=flat-square&amp;logo=windows&amp;logoColor=EDF7FD" /></p>
+
+**Backend & Data / Veri**
+
+<p><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-14263A?style=flat-square&amp;logo=fastapi&amp;logoColor=EDF7FD" /> <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-14263A?style=flat-square&amp;logo=sqlalchemy&amp;logoColor=EDF7FD" /> <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-14263A?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=EDF7FD" /> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-14263A?style=flat-square&amp;logo=sqlite&amp;logoColor=EDF7FD" /> <img alt="Alembic" src="https://img.shields.io/badge/Alembic-14263A?style=flat-square&amp;logoColor=EDF7FD" /> <img alt="JSON" src="https://img.shields.io/badge/JSON-14263A?style=flat-square&amp;logoColor=EDF7FD" /></p>
+
+**AI & Automation / Yapay Zekâ**
+
+<p><img alt="Ollama" src="https://img.shields.io/badge/Ollama-14263A?style=flat-square&amp;logo=ollama&amp;logoColor=EDF7FD" /> <img alt="Qwen" src="https://img.shields.io/badge/Qwen-14263A?style=flat-square&amp;logoColor=EDF7FD" /> <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-14263A?style=flat-square&amp;logoColor=EDF7FD" /> <img alt="Local LLMs" src="https://img.shields.io/badge/Local%20LLMs-14263A?style=flat-square&amp;logoColor=EDF7FD" /> <img alt="APIs" src="https://img.shields.io/badge/APIs-14263A?style=flat-square&amp;logoColor=EDF7FD" /></p>
+
+**Testing & Tools / Araçlar**
+
+<p><img alt="Git" src="https://img.shields.io/badge/Git-14263A?style=flat-square&amp;logo=git&amp;logoColor=EDF7FD" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-14263A?style=flat-square&amp;logo=github&amp;logoColor=EDF7FD" /> <img alt="Vitest" src="https://img.shields.io/badge/Vitest-14263A?style=flat-square&amp;logo=vitest&amp;logoColor=EDF7FD" /> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-14263A?style=flat-square&amp;logo=playwright&amp;logoColor=EDF7FD" /> <img alt="pytest" src="https://img.shields.io/badge/pytest-14263A?style=flat-square&amp;logo=pytest&amp;logoColor=EDF7FD" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-14263A?style=flat-square&amp;logo=linux&amp;logoColor=EDF7FD" /> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-14263A?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=EDF7FD" /> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-14263A?style=flat-square&amp;logo=visualstudio&amp;logoColor=EDF7FD" /></p>
+
+## 05 / GITHUB AKTİVİTESİ
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=deniziuss&amp;bg_color=0D131B&amp;color=9CAFC0&amp;line=47CFEF&amp;point=AF9BFA&amp;area=true&amp;hide_border=true&amp;radius=8"><img src="https://github-readme-activity-graph.vercel.app/graph?username=deniziuss&amp;bg_color=FFFFFF&amp;color=5B6D7D&amp;line=117EA4&amp;point=6C5ACA&amp;area=true&amp;hide_border=true&amp;radius=8" width="100%" alt="GitHub katkı aktivitesi"></picture></p>
+
+<sub>Bu grafik erişilebilir GitHub katkı verileriyle oluşturulur. Özel depolardaki teknoloji kullanımı ve bütün çalışmalarım otomatik grafiğe yansımaz. Üçüncü taraf sağlayıcı nedeniyle grafik zaman zaman gecikebilir veya yüklenmeyebilir. [Güncel GitHub profilim](https://github.com/deniziuss).</sub>
+
+## 06 / İLETİŞİM
+
+Projelerimi incelemek veya iletişim kurmak için:
+
+<p align="center"><a href="https://denizfersiz.com"><img alt="PORTFOLYO" src="https://img.shields.io/badge/PORTFOLYO-112231?style=for-the-badge&amp;logo=githubpages&amp;logoColor=EDF7FD" /></a> <a href="https://github.com/deniziuss?tab=repositories"><img alt="PROJELER" src="https://img.shields.io/badge/PROJELER-112231?style=for-the-badge&amp;logo=github&amp;logoColor=EDF7FD" /></a> <a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"><img alt="LINKEDIN" src="https://img.shields.io/badge/LINKEDIN-112231?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EDF7FD" /></a> <a href="mailto:denizfersiz3@gmail.com"><img alt="E--POSTA" src="https://img.shields.io/badge/E----POSTA-112231?style=for-the-badge&amp;logo=gmail&amp;logoColor=EDF7FD" /></a></p>
+<p align="center"><img src="./assets/profile/footer.svg" width="100%" alt="Sürekli geliştir, analiz et ve iyileştir"></p>

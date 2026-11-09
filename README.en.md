@@ -48,7 +48,7 @@ This section includes not only the languages GitHub automatically detects, but a
 
 <p align="center"><img src="./assets/profile/stack.svg" width="100%" alt="Verified project technology matrix by category"></p>
 
-**Languages / Diller**
+**Languages**
 
 <p><img alt="Python" src="https://img.shields.io/badge/Python-14263A?style=flat-square&amp;logo=python&amp;logoColor=EDF7FD" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-14263A?style=flat-square&amp;logo=typescript&amp;logoColor=EDF7FD" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-14263A?style=flat-square&amp;logo=javascript&amp;logoColor=EDF7FD" /> <img alt="C#" src="https://img.shields.io/badge/C%23-14263A?style=flat-square&amp;logo=csharp&amp;logoColor=EDF7FD" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-14263A?style=flat-square&amp;logo=cplusplus&amp;logoColor=EDF7FD" /> <img alt="Rust" src="https://img.shields.io/badge/Rust-14263A?style=flat-square&amp;logo=rust&amp;logoColor=EDF7FD" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-14263A?style=flat-square&amp;logoColor=EDF7FD" /></p>
 
@@ -56,19 +56,19 @@ This section includes not only the languages GitHub automatically detects, but a
 
 <p><img alt="React" src="https://img.shields.io/badge/React-14263A?style=flat-square&amp;logo=react&amp;logoColor=EDF7FD" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-14263A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=EDF7FD" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-14263A?style=flat-square&amp;logo=tailwindcss&amp;logoColor=EDF7FD" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-14263A?style=flat-square&amp;logo=html5&amp;logoColor=EDF7FD" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-14263A?style=flat-square&amp;logo=css3&amp;logoColor=EDF7FD" /> <img alt="Radix UI" src="https://img.shields.io/badge/Radix%20UI-14263A?style=flat-square&amp;logo=radixui&amp;logoColor=EDF7FD" /> <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-14263A?style=flat-square&amp;logoColor=EDF7FD" /></p>
 
-**Desktop / Masaüstü**
+**Desktop Development**
 
 <p><img alt=".NET" src="https://img.shields.io/badge/.NET-14263A?style=flat-square&amp;logo=dotnet&amp;logoColor=EDF7FD" /> <img alt="Windows Forms" src="https://img.shields.io/badge/Windows%20Forms-14263A?style=flat-square&amp;logo=windows&amp;logoColor=EDF7FD" /> <img alt="Tauri" src="https://img.shields.io/badge/Tauri-14263A?style=flat-square&amp;logo=tauri&amp;logoColor=EDF7FD" /> <img alt="Vite" src="https://img.shields.io/badge/Vite-14263A?style=flat-square&amp;logo=vite&amp;logoColor=EDF7FD" /> <img alt="Windows" src="https://img.shields.io/badge/Windows-14263A?style=flat-square&amp;logo=windows&amp;logoColor=EDF7FD" /></p>
 
-**Backend & Data / Veri**
+**Backend & Data**
 
 <p><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-14263A?style=flat-square&amp;logo=fastapi&amp;logoColor=EDF7FD" /> <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-14263A?style=flat-square&amp;logo=sqlalchemy&amp;logoColor=EDF7FD" /> <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-14263A?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=EDF7FD" /> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-14263A?style=flat-square&amp;logo=sqlite&amp;logoColor=EDF7FD" /> <img alt="Alembic" src="https://img.shields.io/badge/Alembic-14263A?style=flat-square&amp;logoColor=EDF7FD" /> <img alt="JSON" src="https://img.shields.io/badge/JSON-14263A?style=flat-square&amp;logoColor=EDF7FD" /></p>
 
-**AI & Automation / Yapay Zekâ**
+**AI & Automation**
 
 <p><img alt="Ollama" src="https://img.shields.io/badge/Ollama-14263A?style=flat-square&amp;logo=ollama&amp;logoColor=EDF7FD" /> <img alt="Qwen" src="https://img.shields.io/badge/Qwen-14263A?style=flat-square&amp;logoColor=EDF7FD" /> <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-14263A?style=flat-square&amp;logoColor=EDF7FD" /> <img alt="Local LLMs" src="https://img.shields.io/badge/Local%20LLMs-14263A?style=flat-square&amp;logoColor=EDF7FD" /> <img alt="APIs" src="https://img.shields.io/badge/APIs-14263A?style=flat-square&amp;logoColor=EDF7FD" /></p>
 
-**Testing & Tools / Araçlar**
+**Testing & Developer Tools**
 
 <p><img alt="Git" src="https://img.shields.io/badge/Git-14263A?style=flat-square&amp;logo=git&amp;logoColor=EDF7FD" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-14263A?style=flat-square&amp;logo=github&amp;logoColor=EDF7FD" /> <img alt="Vitest" src="https://img.shields.io/badge/Vitest-14263A?style=flat-square&amp;logo=vitest&amp;logoColor=EDF7FD" /> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-14263A?style=flat-square&amp;logo=playwright&amp;logoColor=EDF7FD" /> <img alt="pytest" src="https://img.shields.io/badge/pytest-14263A?style=flat-square&amp;logo=pytest&amp;logoColor=EDF7FD" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-14263A?style=flat-square&amp;logo=linux&amp;logoColor=EDF7FD" /> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-14263A?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=EDF7FD" /> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-14263A?style=flat-square&amp;logo=visualstudio&amp;logoColor=EDF7FD" /></p>
 

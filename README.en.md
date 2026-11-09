@@ -74,9 +74,9 @@ This section includes not only the languages GitHub automatically detects, but a
 
 ## 05 / GITHUB ACTIVITY
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=deniziuss&amp;bg_color=0D131B&amp;color=9CAFC0&amp;line=47CFEF&amp;point=AF9BFA&amp;area=true&amp;hide_border=true&amp;radius=8"><img src="https://github-readme-activity-graph.vercel.app/graph?username=deniziuss&amp;bg_color=FFFFFF&amp;color=5B6D7D&amp;line=117EA4&amp;point=6C5ACA&amp;area=true&amp;hide_border=true&amp;radius=8" width="100%" alt="GitHub contribution activity"></picture></p>
+<p align="center"><img src="./assets/profile/activity.svg" width="100%" alt="Public repository commit activity over the last 90 days"></p>
 
-<sub>This graph uses available GitHub contribution data. Work in private repositories and my complete technical stack will not necessarily appear here. The third-party chart may occasionally be cached or unavailable. [View my GitHub profile](https://github.com/deniziuss).</sub>
+<sub>This chart shows commits attributed to my GitHub account in my public repositories over the last 90 days (UTC). It excludes private repositories, pull requests, issues, and other contribution types. GitHub Actions refreshes it daily. [My GitHub profile](https://github.com/deniziuss).</sub>
 
 ## 06 / CONNECT
 

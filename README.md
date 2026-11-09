@@ -74,9 +74,9 @@ Sadece GitHub'ın otomatik algıladığı dilleri değil, **FirstSteps, LAIR ve 
 
 ## 05 / GITHUB AKTİVİTESİ
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=deniziuss&amp;bg_color=0D131B&amp;color=9CAFC0&amp;line=47CFEF&amp;point=AF9BFA&amp;area=true&amp;hide_border=true&amp;radius=8"><img src="https://github-readme-activity-graph.vercel.app/graph?username=deniziuss&amp;bg_color=FFFFFF&amp;color=5B6D7D&amp;line=117EA4&amp;point=6C5ACA&amp;area=true&amp;hide_border=true&amp;radius=8" width="100%" alt="GitHub katkı aktivitesi"></picture></p>
+<p align="center"><img src="./assets/profile/activity.svg" width="100%" alt="Son 90 günün açık depo commit aktivitesi"></p>
 
-<sub>Bu grafik erişilebilir GitHub katkı verileriyle oluşturulur. Özel depolardaki teknoloji kullanımı ve bütün çalışmalarım otomatik grafiğe yansımaz. Üçüncü taraf sağlayıcı nedeniyle grafik zaman zaman gecikebilir veya yüklenmeyebilir. [Güncel GitHub profilim](https://github.com/deniziuss).</sub>
+<sub>Bu grafik, son 90 gün içinde kendi herkese açık depolarımda GitHub hesabıma atfedilen commitleri gösterir (UTC). Özel depolar, pull request ve issue gibi diğer katkılar dahil değildir. GitHub Actions ile günlük güncellenir. [GitHub profilim](https://github.com/deniziuss).</sub>
 
 ## 06 / İLETİŞİM
 

@@ -1,6 +1,6 @@
 <p align="center"><img src="./assets/profile/hero-tr.svg" width="100%" alt="Deniz Fersiz — yazılım, sistemler ve yapay zekâ"></p>
-<p align="center"><a href="./README.md"><img alt="TÜRKÇE ✓" src="https://img.shields.io/badge/T%C3%9CRK%C3%87E%20%E2%9C%93-0071E3?style=flat&amp;logoColor=F5F5F7" /></a> <a href="./README.en.md"><img alt="ENGLISH" src="https://img.shields.io/badge/ENGLISH-343438?style=flat&amp;logoColor=F5F5F7" /></a></p>
-<p align="center"><a href="https://denizfersiz.com"><img alt="PORTFOLYO" src="https://img.shields.io/badge/PORTFOLYO-343438?style=flat&amp;logo=githubpages&amp;logoColor=F5F5F7" /></a> <a href="https://github.com/deniziuss?tab=repositories"><img alt="PROJELER" src="https://img.shields.io/badge/PROJELER-343438?style=flat&amp;logo=github&amp;logoColor=F5F5F7" /></a> <a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"><img alt="LINKEDIN" src="https://img.shields.io/badge/LINKEDIN-343438?style=flat&amp;logo=linkedin&amp;logoColor=F5F5F7" /></a> <a href="mailto:denizfersiz3@gmail.com"><img alt="E-POSTA" src="https://img.shields.io/badge/E--POSTA-343438?style=flat&amp;logo=gmail&amp;logoColor=F5F5F7" /></a></p>
+<p align="center"><a href="./README.md"><img alt="TÜRKÇE ✓" src="./assets/profile/buttons/tr-active.svg" height="34" /></a> <a href="./README.en.md"><img alt="ENGLISH" src="./assets/profile/buttons/en.svg" height="34" /></a></p>
+<p align="center"><a href="https://denizfersiz.com"><img alt="PORTFOLYO" src="./assets/profile/buttons/portfolio-tr.svg" height="34" /></a> <a href="https://github.com/deniziuss?tab=repositories"><img alt="PROJELER" src="./assets/profile/buttons/projects-tr.svg" height="34" /></a> <a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"><img alt="LINKEDIN" src="./assets/profile/buttons/linkedin.svg" height="34" /></a> <a href="mailto:denizfersiz3@gmail.com"><img alt="E-POSTA" src="./assets/profile/buttons/email-tr.svg" height="34" /></a></p>
 
 ## 01 / HAKKIMDA
 
@@ -46,7 +46,7 @@ Akademik belgelerin oluşturulması ve doğrulanması için geliştirilen C# mas
 
 `C#` · `.NET 10` · `Windows Forms` · `SHA-256` · `JSON`
 
-<p align="center"><a href="https://github.com/deniziuss?tab=repositories"><img alt="TÜM AÇIK PROJELER" src="https://img.shields.io/badge/T%C3%9CM%20A%C3%87IK%20PROJELER-343438?style=flat&amp;logo=github&amp;logoColor=F5F5F7" /></a></p>
+<p align="center"><a href="https://github.com/deniziuss?tab=repositories"><img alt="TÜM AÇIK PROJELER" src="./assets/profile/buttons/all-tr.svg" height="34" /></a></p>
 
 ## 04 / TEKNOLOJİLER
 
@@ -88,5 +88,5 @@ Sadece GitHub'ın otomatik algıladığı dilleri değil, **FirstSteps, Windows 
 
 Projelerimi incelemek veya iletişim kurmak için:
 
-<p align="center"><a href="https://denizfersiz.com"><img alt="PORTFOLYO" src="https://img.shields.io/badge/PORTFOLYO-343438?style=flat&amp;logo=githubpages&amp;logoColor=F5F5F7" /></a> <a href="https://github.com/deniziuss?tab=repositories"><img alt="PROJELER" src="https://img.shields.io/badge/PROJELER-343438?style=flat&amp;logo=github&amp;logoColor=F5F5F7" /></a> <a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"><img alt="LINKEDIN" src="https://img.shields.io/badge/LINKEDIN-343438?style=flat&amp;logo=linkedin&amp;logoColor=F5F5F7" /></a> <a href="mailto:denizfersiz3@gmail.com"><img alt="E-POSTA" src="https://img.shields.io/badge/E--POSTA-343438?style=flat&amp;logo=gmail&amp;logoColor=F5F5F7" /></a></p>
+<p align="center"><a href="https://denizfersiz.com"><img alt="PORTFOLYO" src="./assets/profile/buttons/portfolio-tr.svg" height="34" /></a> <a href="https://github.com/deniziuss?tab=repositories"><img alt="PROJELER" src="./assets/profile/buttons/projects-tr.svg" height="34" /></a> <a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"><img alt="LINKEDIN" src="./assets/profile/buttons/linkedin.svg" height="34" /></a> <a href="mailto:denizfersiz3@gmail.com"><img alt="E-POSTA" src="./assets/profile/buttons/email-tr.svg" height="34" /></a></p>
 <p align="center"><img src="./assets/profile/footer.svg" width="100%" alt="Sürekli geliştir, analiz et ve iyileştir"></p>

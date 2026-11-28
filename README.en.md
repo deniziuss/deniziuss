@@ -1,6 +1,6 @@
 <p align="center"><img src="./assets/profile/hero-en.svg" width="100%" alt="Deniz Fersiz — software, systems and applied AI"></p>
-<p align="center"><a href="./README.md"><img alt="TÜRKÇE" src="https://img.shields.io/badge/T%C3%9CRK%C3%87E-343438?style=flat&amp;logoColor=F5F5F7" /></a> <a href="./README.en.md"><img alt="ENGLISH ✓" src="https://img.shields.io/badge/ENGLISH%20%E2%9C%93-0071E3?style=flat&amp;logoColor=F5F5F7" /></a></p>
-<p align="center"><a href="https://denizfersiz.com"><img alt="PORTFOLIO" src="https://img.shields.io/badge/PORTFOLIO-343438?style=flat&amp;logo=githubpages&amp;logoColor=F5F5F7" /></a> <a href="https://github.com/deniziuss?tab=repositories"><img alt="PROJECTS" src="https://img.shields.io/badge/PROJECTS-343438?style=flat&amp;logo=github&amp;logoColor=F5F5F7" /></a> <a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"><img alt="LINKEDIN" src="https://img.shields.io/badge/LINKEDIN-343438?style=flat&amp;logo=linkedin&amp;logoColor=F5F5F7" /></a> <a href="mailto:denizfersiz3@gmail.com"><img alt="EMAIL" src="https://img.shields.io/badge/EMAIL-343438?style=flat&amp;logo=gmail&amp;logoColor=F5F5F7" /></a></p>
+<p align="center"><a href="./README.md"><img alt="TÜRKÇE" src="./assets/profile/buttons/tr.svg" height="34" /></a> <a href="./README.en.md"><img alt="ENGLISH ✓" src="./assets/profile/buttons/en-active.svg" height="34" /></a></p>
+<p align="center"><a href="https://denizfersiz.com"><img alt="PORTFOLIO" src="./assets/profile/buttons/portfolio-en.svg" height="34" /></a> <a href="https://github.com/deniziuss?tab=repositories"><img alt="PROJECTS" src="./assets/profile/buttons/projects-en.svg" height="34" /></a> <a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"><img alt="LINKEDIN" src="./assets/profile/buttons/linkedin.svg" height="34" /></a> <a href="mailto:denizfersiz3@gmail.com"><img alt="EMAIL" src="./assets/profile/buttons/email-en.svg" height="34" /></a></p>
 
 ## 01 / ABOUT
 
@@ -46,7 +46,7 @@ A C# desktop application for issuing and verifying academic credentials. It incl
 
 `C#` · `.NET 10` · `Windows Forms` · `SHA-256` · `JSON`
 
-<p align="center"><a href="https://github.com/deniziuss?tab=repositories"><img alt="VIEW PUBLIC PROJECTS" src="https://img.shields.io/badge/VIEW%20PUBLIC%20PROJECTS-343438?style=flat&amp;logo=github&amp;logoColor=F5F5F7" /></a></p>
+<p align="center"><a href="https://github.com/deniziuss?tab=repositories"><img alt="VIEW PUBLIC PROJECTS" src="./assets/profile/buttons/all-en.svg" height="34" /></a></p>
 
 ## 04 / TECHNOLOGY STACK
 
@@ -88,5 +88,5 @@ This section includes not only the languages GitHub automatically detects, but a
 
 Explore my projects or get in touch:
 
-<p align="center"><a href="https://denizfersiz.com"><img alt="PORTFOLIO" src="https://img.shields.io/badge/PORTFOLIO-343438?style=flat&amp;logo=githubpages&amp;logoColor=F5F5F7" /></a> <a href="https://github.com/deniziuss?tab=repositories"><img alt="PROJECTS" src="https://img.shields.io/badge/PROJECTS-343438?style=flat&amp;logo=github&amp;logoColor=F5F5F7" /></a> <a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"><img alt="LINKEDIN" src="https://img.shields.io/badge/LINKEDIN-343438?style=flat&amp;logo=linkedin&amp;logoColor=F5F5F7" /></a> <a href="mailto:denizfersiz3@gmail.com"><img alt="EMAIL" src="https://img.shields.io/badge/EMAIL-343438?style=flat&amp;logo=gmail&amp;logoColor=F5F5F7" /></a></p>
+<p align="center"><a href="https://denizfersiz.com"><img alt="PORTFOLIO" src="./assets/profile/buttons/portfolio-en.svg" height="34" /></a> <a href="https://github.com/deniziuss?tab=repositories"><img alt="PROJECTS" src="./assets/profile/buttons/projects-en.svg" height="34" /></a> <a href="https://www.linkedin.com/in/deniz-fersiz-ab0b35406/"><img alt="LINKEDIN" src="./assets/profile/buttons/linkedin.svg" height="34" /></a> <a href="mailto:denizfersiz3@gmail.com"><img alt="EMAIL" src="./assets/profile/buttons/email-en.svg" height="34" /></a></p>
 <p align="center"><img src="./assets/profile/footer.svg" width="100%" alt="Build thoughtfully and improve continuously"></p>

@@ -71,27 +71,27 @@ def render(counts, repo_count, today):
        f'<title>Public GitHub commits — {USER}</title>',
        '<desc>Public authored commits in non-fork owned repositories, by UTC author date. Private repositories, pull requests and other activity are not included.</desc>',
        '<style>'+css+'</style>',
-       f'<rect x="2" y="2" width="996" height="416" rx="26" {fill("bg")} {stroke("line")}/>',
-       f'<text x="42" y="40" class="mono" font-size="24" font-weight="600" letter-spacing="0" {fill("accent")}>GitHub activity</text>',
-       f'<text x="958" y="40" text-anchor="end" class="mono" font-size="11" {fill("muted")}>Last 90 days · UTC</text>',
+       f'<rect x="2" y="2" width="996" height="416" rx="28" {fill("bg")} {stroke("line")}/>',
+       f'<text x="42" y="40" class="mono" font-size="30" font-weight="700" letter-spacing="-0.8" {fill("accent")}>GitHub activity.</text>',
+       f'<text x="958" y="40" text-anchor="end" class="mono" font-size="13" {fill("muted")}>Last 90 days · UTC</text>',
        f'<line x1="43" y1="54" x2="957" y2="54" {stroke("line")}/>',
        f'<line x1="642" y1="80" x2="642" y2="359" {stroke("line")}/>',
-       f'<text x="60" y="87" class="mono" font-size="12" {fill("muted")}>Daily public commits</text>']
+       f'<text x="60" y="87" class="mono" font-size="14" {fill("muted")}>Daily public commits</text>']
     for i,day in enumerate(days):
         col,row = divmod(i,7)
         num=values[i]
         shade="empty" if not num else "a1" if num<=2 else "a2" if num<=9 else "a3" if num<=29 else "a4"
-        p.append(f'<rect x="{60+42*col}" y="{108+31*row}" width="32" height="23" rx="4" {fill(shade)}><title>{day.isoformat()}: {num} public commits</title></rect>')
+        p.append(f'<rect x="{60+42*col}" y="{108+31*row}" width="32" height="23" rx="6" {fill(shade)}><title>{day.isoformat()}: {num} public commits</title></rect>')
     p += [f'<text x="60" y="337" class="mono" font-size="10.5" {fill("muted")}>Older</text>',
           f'<text x="606" y="337" text-anchor="end" class="mono" font-size="10.5" {fill("muted")}>Recent</text>']
     for i,weekly in enumerate(weeks):
         height=4 if not maxweek else max(4,round(16*weekly/maxweek))
         p.append(f'<rect x="{60+42*i}" y="{365-height}" width="32" height="{height}" rx="2" opacity="{0.3 if weekly==0 else 1}" {fill("accent")}/>')
     for y,label,number in [(117,"Public commits",total),(217,"Active days",active),(317,"Public repositories",repo_count)]:
-        p.append(f'<text x="689" y="{y}" class="mono" font-size="11.5" letter-spacing="0" {fill("muted")}>{label}</text>')
-        p.append(f'<text x="689" y="{y+51}" class="sans" font-size="48" font-weight="700" {fill("ink")}>{number}</text>')
+        p.append(f'<text x="689" y="{y}" class="mono" font-size="14" letter-spacing="0" {fill("muted")}>{label}</text>')
+        p.append(f'<text x="689" y="{y+51}" class="sans" font-size="52" font-weight="700" letter-spacing="-1.5" {fill("ink")}>{number}</text>')
     p += [f'<line x1="43" y1="385" x2="957" y2="385" {stroke("line")}/>',
-          f'<text x="44" y="406" class="mono" font-size="10.7" {fill("muted")}>Public GitHub commits · UTC author date · Updated {today.isoformat()}</text>',
+          f'<text x="44" y="406" class="mono" font-size="12" {fill("muted")}>Public GitHub commits · UTC author date · Updated {today.isoformat()}</text>',
           '</svg>']
     return "\n".join(p)+"\n"
 
